@@ -1,0 +1,21 @@
+.contenedor-flex {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .flex-hijo {
+    width: 300px;
+    height: 300px;
+    font-size: 3rem;
+  }
+  
+  .uno,
+  .tres,
+  .cuatro {
+    background-color: red;
+    color: yellow;
+  }
+  .dos {
+    background-color: black;
+    color: white;
+  }
